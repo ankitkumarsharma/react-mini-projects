@@ -1,0 +1,2006 @@
+[
+  {
+    "name": "Walmart",
+    "url": "http://www.walmart.com"
+  },
+  {
+    "name": "Sinopec Group",
+    "url": "http://www.sinopec.com"
+  },
+  {
+    "name": "Royal Dutch Shell",
+    "url": "http://www.shell.com"
+  },
+  {
+    "name": "Exxon Mobil",
+    "url": "http://www.exxonmobil.com"
+  },
+  {
+    "name": "BP",
+    "url": "http://www.bp.com"
+  },
+  {
+    "name": "State Grid",
+    "url": "http://www.sgcc.com.cn"
+  },
+  {
+    "name": "Volkswagen",
+    "url": "http://www.volkswagenag.com"
+  },
+  {
+    "name": "Toyota Motor",
+    "url": "http://www.toyota-global.com"
+  },
+  {
+    "name": "Glencore",
+    "url": "http://www.glencore.com"
+  },
+  {
+    "name": "Total",
+    "url": "http://www.total.com"
+  },
+  {
+    "name": "Chevron",
+    "url": "http://www.chevron.com"
+  },
+  {
+    "name": "Samsung Electronics",
+    "url": "http://www.samsung.com"
+  },
+  {
+    "name": "Berkshire Hathaway",
+    "url": "http://www.berkshirehathaway.com"
+  },
+  {
+    "name": "Apple",
+    "url": "http://www.apple.com"
+  },
+  {
+    "name": "McKesson",
+    "url": "http://www.mckesson.com"
+  },
+  {
+    "name": "Daimler",
+    "url": "http://www.daimler.com"
+  },
+  {
+    "name": "Industrial & Commer. Bank of China",
+    "url": "http://www.icbc-ltd.com"
+  },
+  {
+    "name": "EXOR Group",
+    "url": "http://www.exor.com"
+  },
+  {
+    "name": "AXA",
+    "url": "http://www.axa.com"
+  },
+  {
+    "name": "General Motors",
+    "url": "http://www.gm.com"
+  },
+  {
+    "name": "E.ON",
+    "url": "http://www.eon.com"
+  },
+  {
+    "name": "Phillips 66",
+    "url": "http://www.phillips66.com"
+  },
+  {
+    "name": "General Electric",
+    "url": "http://www.ge.com"
+  },
+  {
+    "name": "ENI",
+    "url": "http://www.eni.com"
+  },
+  {
+    "name": "Gazprom",
+    "url": "http://www.gazprom.com"
+  },
+  {
+    "name": "Ford Motor",
+    "url": "http://www.ford.com"
+  },
+  {
+    "name": "Petrobras",
+    "url": "http://www.petrobras.com."
+  },
+  {
+    "name": "China Construction Bank",
+    "url": "http://www.ccb.com"
+  },
+  {
+    "name": "CVS Health",
+    "url": "http://www.cvshealth.com"
+  },
+  {
+    "name": "Hon Hai Precision Industry",
+    "url": "http://www.foxconn.com"
+  },
+  {
+    "name": "Allianz",
+    "url": "http://www.allianz.com"
+  },
+  {
+    "name": "AT&T",
+    "url": "http://www.att.com"
+  },
+  {
+    "name": "Valero Energy",
+    "url": "http://www.valero.com"
+  },
+  {
+    "name": "UnitedHealth Group",
+    "url": "http://www.unitedhealthgroup.com"
+  },
+  {
+    "name": "Agricultural Bank of China",
+    "url": "http://www.abchina.com"
+  },
+  {
+    "name": "China State Construction Engineering",
+    "url": "http://www.cscec.com"
+  },
+  {
+    "name": "Japan Post Holdings",
+    "url": "http://www.japanpost.jp"
+  },
+  {
+    "name": "PDVSA",
+    "url": "http://www.pdvsa.com"
+  },
+  {
+    "name": "Trafigura Beheer",
+    "url": "http://www.trafigura.com"
+  },
+  {
+    "name": "Verizon",
+    "url": "http://www.verizon.com"
+  },
+  {
+    "name": "BNP Paribas",
+    "url": "http://www.bnpparibas.com"
+  },
+  {
+    "name": "Lukoil",
+    "url": "http://www.lukoil.com"
+  },
+  {
+    "name": "Honda Motor",
+    "url": "http://www.honda.com"
+  },
+  {
+    "name": "Bank of China",
+    "url": "http://www.boc.cn"
+  },
+  {
+    "name": "AmerisourceBergen",
+    "url": "http://www.amerisourcebergen.com"
+  },
+  {
+    "name": "Pemex",
+    "url": "http://www.pemex.com"
+  },
+  {
+    "name": "Assicurazioni Generali",
+    "url": "http://www.generali.com"
+  },
+  {
+    "name": "Societe Generale",
+    "url": "http://www.societegenerale.com"
+  },
+  {
+    "name": "Fannie Mae",
+    "url": "http://www.fanniemae.com"
+  },
+  {
+    "name": "Rosneft Oil",
+    "url": "http://www.rosneft.com"
+  },
+  {
+    "name": "Costco",
+    "url": "http://www.costco.com"
+  },
+  {
+    "name": "HP",
+    "url": "http://www.hp.com"
+  },
+  {
+    "name": "Kroger",
+    "url": "http://www.thekrogerco.com"
+  },
+  {
+    "name": "China Mobile Communications",
+    "url": "http://www.10086.cn"
+  },
+  {
+    "name": "BMW",
+    "url": "http://www.bmwgroup.com"
+  },
+  {
+    "name": "SK Holdings",
+    "url": "http://www.sk.com"
+  },
+  {
+    "name": "Credit Agricole",
+    "url": "http://www.credit-agricole.com"
+  },
+  {
+    "name": "Nissan Motor",
+    "url": "http://www.nissan-global.com"
+  },
+  {
+    "name": "SAIC Motor",
+    "url": "http://www.saicmotor.com"
+  },
+  {
+    "name": "JP Morgan Chase",
+    "url": "http://www.jpmorganchase.com"
+  },
+  {
+    "name": "Tesco",
+    "url": "http://www.tescoplc.com"
+  },
+  {
+    "name": "Siemens",
+    "url": "http://www.siemens.com"
+  },
+  {
+    "name": "Carrefour",
+    "url": "http://www.carrefour.com"
+  },
+  {
+    "name": "Nippon Tel. & Tel.",
+    "url": "http://www.ntt.co.jp"
+  },
+  {
+    "name": "Express Scripts Holding",
+    "url": "http://www.express-scripts.com"
+  },
+  {
+    "name": "Banco Santander",
+    "url": "http://www.santander.com"
+  },
+  {
+    "name": "Petronas",
+    "url": "http://www.petronas.com.my"
+  },
+  {
+    "name": "Enel",
+    "url": "http://www.enel.com"
+  },
+  {
+    "name": "Nestlé",
+    "url": "http://www.nestle.com"
+  },
+  {
+    "name": "China Railway Engineering",
+    "url": "http://www.crecg.com"
+  },
+  {
+    "name": "China National Offshore Oil",
+    "url": "http://www.cnooc.com.cn"
+  },
+  {
+    "name": "GDF Suez",
+    "url": "http://www.gdfsuez.com"
+  },
+  {
+    "name": "Prudential plc",
+    "url": "http://www.prudential.co.uk"
+  },
+  {
+    "name": "Statoil",
+    "url": "http://www.statoil.com"
+  },
+  {
+    "name": "BASF",
+    "url": "http://www.basf.com"
+  },
+  {
+    "name": "Noble Group",
+    "url": "http://www.thisisnoble.com"
+  },
+  {
+    "name": "Électricité de France",
+    "url": "http://www.edf.com"
+  },
+  {
+    "name": "China Railway Construction",
+    "url": "http://www.crcc.cn"
+  },
+  {
+    "name": "Bank of America Corp.",
+    "url": "http://www.bankofamerica.com"
+  },
+  {
+    "name": "HSBC Holdings",
+    "url": "http://www.hsbc.com"
+  },
+  {
+    "name": "IBM",
+    "url": "http://www.ibm.com"
+  },
+  {
+    "name": "Marathon Petroleum",
+    "url": "http://www.marathonpetroleum.com"
+  },
+  {
+    "name": "Cardinal Health",
+    "url": "http://www.cardinal.com"
+  },
+  {
+    "name": "Boeing",
+    "url": "http://www.boeing.com"
+  },
+  {
+    "name": "Citigroup",
+    "url": "http://www.citigroup.com"
+  },
+  {
+    "name": "China Development Bank",
+    "url": "http://www.cdb.com.cn"
+  },
+  {
+    "name": "Amazon.com",
+    "url": "http://www.amazon.com"
+  },
+  {
+    "name": "Hitachi",
+    "url": "http://www.hitachi.com"
+  },
+  {
+    "name": "Wells Fargo",
+    "url": "http://www.wellsfargo.com"
+  },
+  {
+    "name": "ING Group",
+    "url": "http://www.ing.com"
+  },
+  {
+    "name": "JX Holdings",
+    "url": "http://www.hd.jx-group.co.jp"
+  },
+  {
+    "name": "PTT",
+    "url": "http://www.pttplc.com"
+  },
+  {
+    "name": "China Life Insurance",
+    "url": "http://www.chinalife.com.cn"
+  },
+  {
+    "name": "Microsoft",
+    "url": "http://www.microsoft.com"
+  },
+  {
+    "name": "Ping An Insurance",
+    "url": "http://www.pingan.com"
+  },
+  {
+    "name": "Metro",
+    "url": "http://www.metrogroup.de"
+  },
+  {
+    "name": "Legal & General Group",
+    "url": "http://www.legalandgeneralgroup.com"
+  },
+  {
+    "name": "Hyundai Motor",
+    "url": "http://worldwide.hyundai.com"
+  },
+  {
+    "name": "Procter & Gamble",
+    "url": "http://www.pg.com"
+  },
+  {
+    "name": "Home Depot",
+    "url": "http://www.homedepot.com"
+  },
+  {
+    "name": "Deutsche Telekom",
+    "url": "http://www.telekom.com"
+  },
+  {
+    "name": "Munich Re",
+    "url": "http://www.munichre.com"
+  },
+  {
+    "name": "Archer Daniels Midland",
+    "url": "http://www.adm.com"
+  },
+  {
+    "name": "Sinochem",
+    "url": "http://www.sinochem.com"
+  },
+  {
+    "name": "Airbus Group",
+    "url": "http://www.airbusgroup.com"
+  },
+  {
+    "name": "China FAW Group",
+    "url": "http://www.faw.com."
+  },
+  {
+    "name": "ArcelorMittal",
+    "url": "http://www.arcelormittal.com"
+  },
+  {
+    "name": "Dongfeng Motor Group",
+    "url": "http://www.dfmc.com.cn"
+  },
+  {
+    "name": "SoftBank Group",
+    "url": "http://www.softbank.jp"
+  },
+  {
+    "name": "Deutsche Post",
+    "url": "http://www.dpdhl.com"
+  },
+  {
+    "name": "Itaú Unibanco Holding",
+    "url": "http://www.itau.com.br"
+  },
+  {
+    "name": "China Southern Power Grid",
+    "url": "http://www.csg.cn"
+  },
+  {
+    "name": "Walgreens",
+    "url": "http://www.walgreensbootsalliance.com"
+  },
+  {
+    "name": "China Resources National",
+    "url": "http://www.crc.com.hk"
+  },
+  {
+    "name": "Sony",
+    "url": "http://www.sony.net"
+  },
+  {
+    "name": "Target",
+    "url": "http://www.target.com"
+  },
+  {
+    "name": "Johnson & Johnson",
+    "url": "http://www.jnj.com"
+  },
+  {
+    "name": "Indian Oil",
+    "url": "http://www.iocl.com"
+  },
+  {
+    "name": "Anthem",
+    "url": "http://www.antheminc.com"
+  },
+  {
+    "name": "MetLife",
+    "url": "http://www.metlife.com"
+  },
+  {
+    "name": "Zurich Insurance Group",
+    "url": "http://www.zurich.com"
+  },
+  {
+    "name": "Aviva",
+    "url": "http://www.aviva.com"
+  },
+  {
+    "name": "Alphabet",
+    "url": "http://www.google.com"
+  },
+  {
+    "name": "Marubeni",
+    "url": "http://www.marubeni.com"
+  },
+  {
+    "name": "Banco do Brasil",
+    "url": "http://www.bb.com.br"
+  },
+  {
+    "name": "State Farm Insurance Cos.",
+    "url": "http://www.statefarm.com"
+  },
+  {
+    "name": "Peugeot",
+    "url": "http://www.psa-peugeot-citroen.com"
+  },
+  {
+    "name": "Groupe Auchan",
+    "url": "http://www.groupe-auchan.com"
+  },
+  {
+    "name": "Pertamina",
+    "url": "http://www.pertamina.com"
+  },
+  {
+    "name": "Panasonic",
+    "url": "http://www.panasonic.com"
+  },
+  {
+    "name": "Mitsubishi Corp.",
+    "url": "http://www.mitsubishicorp.com"
+  },
+  {
+    "name": "Freddie Mac",
+    "url": "http://www.freddiemac.com"
+  },
+  {
+    "name": "Groupe BPCE",
+    "url": "http://www.bpce.fr"
+  },
+  {
+    "name": "Comcast",
+    "url": "http://www.comcastcorporation.com"
+  },
+  {
+    "name": "Vodafone Group",
+    "url": "http://www.vodafone.com"
+  },
+  {
+    "name": "U.S. Postal Service",
+    "url": "http://www.usps.com"
+  },
+  {
+    "name": "Nippon Life Insurance",
+    "url": "http://www.nissay.co.jp"
+  },
+  {
+    "name": "BHP Billiton",
+    "url": "http://www.bhpbilliton.com"
+  },
+  {
+    "name": "Telefonica",
+    "url": "http://www.telefonica.com"
+  },
+  {
+    "name": "PepsiCo",
+    "url": "http://www.pepsico.com"
+  },
+  {
+    "name": "Dai-ichi Life Insurance",
+    "url": "http://www.dai-ichi-life.co.jp"
+  },
+  {
+    "name": "China Post Group",
+    "url": "http://www.chinapost.com.cn"
+  },
+  {
+    "name": "China North Industries",
+    "url": "http://www.norincogroup.com.cn"
+  },
+  {
+    "name": "Lloyds Banking Group",
+    "url": "http://www.lloydsbankinggroup.com"
+  },
+  {
+    "name": "Tewoo Group",
+    "url": "http://www.tewoo.com"
+  },
+  {
+    "name": "AEON",
+    "url": "http://www.aeon.info"
+  },
+  {
+    "name": "Finatis",
+    "url": "http://www.finatis.fr"
+  },
+  {
+    "name": "United Technologies",
+    "url": "http://www.utc.com"
+  },
+  {
+    "name": "Bosch",
+    "url": "http://www.bosch.com"
+  },
+  {
+    "name": "Louis Dreyfus Commodities",
+    "url": "http://www.ldcom.com"
+  },
+  {
+    "name": "AIG",
+    "url": "http://www.aig.com"
+  },
+  {
+    "name": "Unilever",
+    "url": "http://www.unilever.com"
+  },
+  {
+    "name": "RWE",
+    "url": "http://www.rwe.com"
+  },
+  {
+    "name": "America Movil",
+    "url": "http://www.americamovil.com"
+  },
+  {
+    "name": "Pacific Construction Group",
+    "url": "http://www.cpcg.com.cn"
+  },
+  {
+    "name": "Toshiba",
+    "url": "http://www.toshiba.com"
+  },
+  {
+    "name": "Reliance Industries",
+    "url": "http://www.ril.com"
+  },
+  {
+    "name": "Aviation Industry Corp. of China",
+    "url": "http://www.avic.com.cn"
+  },
+  {
+    "name": "China Telecommunications",
+    "url": "http://www.chinatelecom.com.cn"
+  },
+  {
+    "name": "Tokyo Electric Power",
+    "url": "http://www.tepco.co.jp"
+  },
+  {
+    "name": "POSCO",
+    "url": "http://www.posco.com"
+  },
+  {
+    "name": "Aegon",
+    "url": "http://www.aegon.com"
+  },
+  {
+    "name": "Deutsche Bank",
+    "url": "http://www.deutsche-bank.com"
+  },
+  {
+    "name": "China Communications Construction",
+    "url": "http://www.ccccltd.cn"
+  },
+  {
+    "name": "CNP Assurances",
+    "url": "http://www.cnp.fr"
+  },
+  {
+    "name": "Novartis",
+    "url": "http://www.novartis.com"
+  },
+  {
+    "name": "UPS",
+    "url": "http://www.ups.com"
+  },
+  {
+    "name": "Dow Chemical",
+    "url": "http://www.dow.com"
+  },
+  {
+    "name": "Aetna",
+    "url": "http://www.aetna.com"
+  },
+  {
+    "name": "Wesfarmers",
+    "url": "http://www.wesfarmers.com.au"
+  },
+  {
+    "name": "Bunge",
+    "url": "http://www.bunge.com"
+  },
+  {
+    "name": "Intesa Sanpaolo",
+    "url": "http://www.group.intesasanpaolo.com"
+  },
+  {
+    "name": "People's Insurance Co. of China",
+    "url": "http://www.picc.com.cn"
+  },
+  {
+    "name": "LG Electronics",
+    "url": "http://www.lg.com"
+  },
+  {
+    "name": "Lowe's",
+    "url": "http://www.lowes.com"
+  },
+  {
+    "name": "Sberbank",
+    "url": "http://www.sberbank.ru"
+  },
+  {
+    "name": "Bayer",
+    "url": "http://www.bayer.com"
+  },
+  {
+    "name": "ThyssenKrupp",
+    "url": "http://www.thyssenkrupp.com"
+  },
+  {
+    "name": "ConocoPhillips",
+    "url": "http://www.conocophillips.com"
+  },
+  {
+    "name": "Woolworths",
+    "url": "http://www.woolworthslimited.com.au"
+  },
+  {
+    "name": "Intel",
+    "url": "http://www.intel.com"
+  },
+  {
+    "name": "Energy Transfer Equity",
+    "url": "http://www.energytransfer.com"
+  },
+  {
+    "name": "Seven & I Holdings",
+    "url": "http://www.7andi.com"
+  },
+  {
+    "name": "Banco Bradesco",
+    "url": "http://www.bradesco.com.br"
+  },
+  {
+    "name": "CITIC Group",
+    "url": "http://www.citicgroup.com.cn"
+  },
+  {
+    "name": "Caterpillar",
+    "url": "http://www.caterpillar.com"
+  },
+  {
+    "name": "Repsol",
+    "url": "http://www.repsol.com"
+  },
+  {
+    "name": "Roche Group",
+    "url": "http://www.roche.com"
+  },
+  {
+    "name": "Bank of Communications",
+    "url": "http://www.bankcomm.com"
+  },
+  {
+    "name": "Renault",
+    "url": "http://www.renault.com"
+  },
+  {
+    "name": "Saint-Gobain",
+    "url": "http://www.saint-gobain.com"
+  },
+  {
+    "name": "Korea Electric Power",
+    "url": "http://www.kepco.co.kr"
+  },
+  {
+    "name": "Prudential Financial",
+    "url": "http://www.prudential.com"
+  },
+  {
+    "name": "Barclays",
+    "url": "http://www.barclays.com"
+  },
+  {
+    "name": "Shenhua Group",
+    "url": "http://www.shenhuagroup.com.cn"
+  },
+  {
+    "name": "Deutsche Bahn",
+    "url": "http://www.deutschebahn.com"
+  },
+  {
+    "name": "China Minmetals",
+    "url": "http://www.minmetals.com"
+  },
+  {
+    "name": "Orange",
+    "url": "http://www.orange.com"
+  },
+  {
+    "name": "Vinci",
+    "url": "http://www.vinci.com"
+  },
+  {
+    "name": "Mitsubishi UFJ Financial Group",
+    "url": "http://www.mufg.jp"
+  },
+  {
+    "name": "JBS",
+    "url": "http://www.jbs.com.br"
+  },
+  {
+    "name": "ACS",
+    "url": "http://www.grupoacs.com"
+  },
+  {
+    "name": "Nippon Steel & Sumitomo Metal",
+    "url": "http://www.nssmc.com"
+  },
+  {
+    "name": "SSE",
+    "url": "http://www.sse.com"
+  },
+  {
+    "name": "Itochu",
+    "url": "http://www.itochu.co.jp"
+  },
+  {
+    "name": "Beijing Automotive Group",
+    "url": "http://www.baicgroup.com.cn"
+  },
+  {
+    "name": "A.P. Maersk",
+    "url": "http://www.maersk.com"
+  },
+  {
+    "name": "SABIC",
+    "url": "http://www.sabic.com"
+  },
+  {
+    "name": "Hyundai Heavy Industries",
+    "url": "http://www.hyundaiheavy.com/"
+  },
+  {
+    "name": "Pfizer",
+    "url": "http://www.pfizer.com"
+  },
+  {
+    "name": "Manulife Financial",
+    "url": "http://www.manulife.com"
+  },
+  {
+    "name": "Mitsui",
+    "url": "http://www.mitsui.com"
+  },
+  {
+    "name": "Walt Disney",
+    "url": "http://www.disney.com"
+  },
+  {
+    "name": "Schlumberger",
+    "url": "http://www.slb.com"
+  },
+  {
+    "name": "Humana",
+    "url": "http://www.humana.com"
+  },
+  {
+    "name": "Centrica",
+    "url": "http://www.centrica.com"
+  },
+  {
+    "name": "Baosteel Group",
+    "url": "http://www.baosteel.com"
+  },
+  {
+    "name": "International Petroleum Investment",
+    "url": "http://www.ipic.ae"
+  },
+  {
+    "name": "Enterprise Products",
+    "url": "http://www.enterpriseproducts.com"
+  },
+  {
+    "name": "Banco Bilbao Vizcaya Argentaria",
+    "url": "http://www.bbva.com"
+  },
+  {
+    "name": "Rio Tinto Group",
+    "url": "http://www.riotinto.com"
+  },
+  {
+    "name": "OMV Group",
+    "url": "http://www.omv.com"
+  },
+  {
+    "name": "China Huaneng Group",
+    "url": "http://www.chng.com.cn"
+  },
+  {
+    "name": "Cisco Systems",
+    "url": "http://www.cisco.com"
+  },
+  {
+    "name": "Anheuser-Busch InBev",
+    "url": "http://www.ab-inbev.com"
+  },
+  {
+    "name": "China United Network Communications",
+    "url": "http://www.chinaunicom-a.com"
+  },
+  {
+    "name": "Huawei Investment & Holding",
+    "url": "http://www.huawei.com"
+  },
+  {
+    "name": "Sysco",
+    "url": "http://www.sysco.com"
+  },
+  {
+    "name": "Ingram Micro",
+    "url": "http://www.ingrammicro.com"
+  },
+  {
+    "name": "Lenovo Group",
+    "url": "http://www.lenovo.com"
+  },
+  {
+    "name": "Coca-Cola",
+    "url": "http://www.coca-colacompany.com"
+  },
+  {
+    "name": "Continental",
+    "url": "http://www.continental-corporation.com"
+  },
+  {
+    "name": "Shandong Weiqiao Pioneering",
+    "url": "http://www.weiqiaocy.com"
+  },
+  {
+    "name": "China Merchants Bank",
+    "url": "http://www.cmbchina.com"
+  },
+  {
+    "name": "LyondellBasell Industries",
+    "url": "http://www.lyb.com"
+  },
+  {
+    "name": "Lockheed Martin",
+    "url": "http://www.lockheedmartin.com"
+  },
+  {
+    "name": "FedEx",
+    "url": "http://www.fedex.com"
+  },
+  {
+    "name": "HeBei Iron & Steel Group",
+    "url": "http://www.hebgtjt.com"
+  },
+  {
+    "name": "Aluminum Corp. of China",
+    "url": "http://www.chalco.com.cn"
+  },
+  {
+    "name": "Sanofi",
+    "url": "http://www.sanofi.com"
+  },
+  {
+    "name": "Kia Motors",
+    "url": "http://www.kia.com"
+  },
+  {
+    "name": "Sumitomo Mitsui Financial Group",
+    "url": "http://www.smfg.co.jp"
+  },
+  {
+    "name": "Bouygues",
+    "url": "http://www.bouygues.com"
+  },
+  {
+    "name": "Johnson Controls",
+    "url": "http://www.johnsoncontrols.com"
+  },
+  {
+    "name": "UniCredit Group",
+    "url": "http://www.unicreditgroup.eu"
+  },
+  {
+    "name": "Amer International Group",
+    "url": "http://www.amer.com.cn"
+  },
+  {
+    "name": "Royal Ahold",
+    "url": "http://www.ahold.com"
+  },
+  {
+    "name": "Plains GP Holdings",
+    "url": "http://www.plainsallamerican.com"
+  },
+  {
+    "name": "World Fuel Services",
+    "url": "http://www.wfscorp.com"
+  },
+  {
+    "name": "Fujitsu",
+    "url": "http://www.fujitsu.com"
+  },
+  {
+    "name": "Wilmar International",
+    "url": "http://www.wilmar-international.com"
+  },
+  {
+    "name": "Power China",
+    "url": "http://www.powerchina.cn"
+  },
+  {
+    "name": "Tata Motors",
+    "url": "http://www.tatamotors.com"
+  },
+  {
+    "name": "CHS",
+    "url": "http://www.chsinc.com"
+  },
+  {
+    "name": "MS&AD Insurance",
+    "url": "http://www.ms-ad-hd.com"
+  },
+  {
+    "name": "American Airlines Group",
+    "url": "http://www.aa.com"
+  },
+  {
+    "name": "Greenland Holding Group",
+    "url": "http://www.ldjt.com.cn"
+  },
+  {
+    "name": "Merck",
+    "url": "http://www.merck.com"
+  },
+  {
+    "name": "State Bank of India",
+    "url": "http://www.sbi.co.in"
+  },
+  {
+    "name": "Christian Dior",
+    "url": "http://www.dior-finance.com"
+  },
+  {
+    "name": "Best Buy",
+    "url": "http://www.bestbuy.com"
+  },
+  {
+    "name": "Meiji Yasuda Life Insurance",
+    "url": "http://www.meijiyasuda.co.jp"
+  },
+  {
+    "name": "Shanxi Coking Coal Group",
+    "url": "http://www.sxcc.com.cn"
+  },
+  {
+    "name": "ChemChina",
+    "url": "http://www.chemchina.com"
+  },
+  {
+    "name": "National Australia Bank",
+    "url": "http://www.nabgroup.com"
+  },
+  {
+    "name": "KDDI",
+    "url": "http://www.kddi.com"
+  },
+  {
+    "name": "Volvo",
+    "url": "http://www.volvogroup.com"
+  },
+  {
+    "name": "Commonwealth Bank",
+    "url": "http://www.commbank.com.au"
+  },
+  {
+    "name": "China National Bldg. Materials Group",
+    "url": "http://www.cnbm.com.cn"
+  },
+  {
+    "name": "Industrial Bank",
+    "url": "http://www.cib.com.cn"
+  },
+  {
+    "name": "COFCO",
+    "url": "http://www.cofco.com"
+  },
+  {
+    "name": "Delta Air Lines",
+    "url": "http://www.delta.com"
+  },
+  {
+    "name": "Jiangsu Shagang Group",
+    "url": "http://www.shasteel.cn"
+  },
+  {
+    "name": "Honeywell International",
+    "url": "http://www.honeywell.com"
+  },
+  {
+    "name": "Sinopharm",
+    "url": "http://www.sinopharm.com"
+  },
+  {
+    "name": "HCA Holdings",
+    "url": "http://www.hcahealthcare.com"
+  },
+  {
+    "name": "Goldman Sachs Group",
+    "url": "http://www.gs.com"
+  },
+  {
+    "name": "Tesoro",
+    "url": "http://www.tsocorp.com"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "url": "http://www.bharatpetroleum.in"
+  },
+  {
+    "name": "China Minsheng Banking",
+    "url": "http://www.cmbc.com.cn"
+  },
+  {
+    "name": "Jardine Matheson",
+    "url": "http://www.jardines.com"
+  },
+  {
+    "name": "Iberdrola",
+    "url": "http://www.iberdrola.es"
+  },
+  {
+    "name": "ABB",
+    "url": "http://www.abb.com"
+  },
+  {
+    "name": "Lufthansa Group",
+    "url": "http://www.lufthansagroup.com"
+  },
+  {
+    "name": "Liberty Mutual Insurance Group",
+    "url": "http://www.libertymutual.com"
+  },
+  {
+    "name": "Weston",
+    "url": "http://www.weston.ca"
+  },
+  {
+    "name": "Sinomach",
+    "url": "http://www.sinomach.com.cn"
+  },
+  {
+    "name": "Credit Suisse Group",
+    "url": "http://www.credit-suisse.com"
+  },
+  {
+    "name": "Tokio Marine Holdings",
+    "url": "http://www.tokiomarinehd.com"
+  },
+  {
+    "name": "Mitsubishi Electric",
+    "url": "http://www.mitsubishielectric.com"
+  },
+  {
+    "name": "Talanx",
+    "url": "http://www.talanx.com"
+  },
+  {
+    "name": "Denso",
+    "url": "http://www.globaldenso.com"
+  },
+  {
+    "name": "United Continental Holdings",
+    "url": "http://www.unitedcontinentalholdings.com"
+  },
+  {
+    "name": "DZ Bank",
+    "url": "http://www.dzbank.com"
+  },
+  {
+    "name": "Shanghai Pudong Devel. Bank",
+    "url": "http://www.spdb.com.cn"
+  },
+  {
+    "name": "New York Life Insurance",
+    "url": "http://www.newyorklife.com"
+  },
+  {
+    "name": "Power Corp. of Canada",
+    "url": "http://www.powercorporation.com"
+  },
+  {
+    "name": "Royal Bank of Canada",
+    "url": "http://www.rbc.com"
+  },
+  {
+    "name": "Oracle",
+    "url": "http://www.oracle.com"
+  },
+  {
+    "name": "Sainsbury's",
+    "url": "http://www.j-sainsbury.co.uk"
+  },
+  {
+    "name": "GS Caltex",
+    "url": "http://www.gscaltex.com"
+  },
+  {
+    "name": "Royal Bank of Scotland Group",
+    "url": "http://www.rbs.com"
+  },
+  {
+    "name": "Bohai Steel Group",
+    "url": "http://www.bohaisteel.com"
+  },
+  {
+    "name": "Alimentation Couche-Tard",
+    "url": "http://www.couche-tard.com"
+  },
+  {
+    "name": "Morgan Stanley",
+    "url": "http://www.morganstanley.com"
+  },
+  {
+    "name": "Idemitsu Kosan",
+    "url": "http://www.idemitsu.com"
+  },
+  {
+    "name": "UBS Group",
+    "url": "http://www.ubs.com"
+  },
+  {
+    "name": "GlaxoSmithKline",
+    "url": "http://www.gsk.com"
+  },
+  {
+    "name": "Poste Italiane",
+    "url": "http://www.poste.it"
+  },
+  {
+    "name": "Tyson Foods",
+    "url": "http://www.tysonfoods.com"
+  },
+  {
+    "name": "Vale",
+    "url": "http://www.vale.com"
+  },
+  {
+    "name": "Swiss Re",
+    "url": "http://www.swissre.com"
+  },
+  {
+    "name": "Edeka Zentrale",
+    "url": "http://www.edeka-verbund.de"
+  },
+  {
+    "name": "Jizhong Energy Group",
+    "url": "http://www.jznyjt.com"
+  },
+  {
+    "name": "CPC",
+    "url": "http://www.cpc.com.tw"
+  },
+  {
+    "name": "Suncor Energy",
+    "url": "http://www.suncor.com"
+  },
+  {
+    "name": "Magna International",
+    "url": "http://www.magna.com"
+  },
+  {
+    "name": "Mitsubishi Heavy Industries",
+    "url": "http://www.mhi-global.com"
+  },
+  {
+    "name": "Nationwide",
+    "url": "http://www.nationwide.com"
+  },
+  {
+    "name": "China National Aviation Fuel Group",
+    "url": "http://www.cnaf.com"
+  },
+  {
+    "name": "SNCF",
+    "url": "http://www.sncf.com"
+  },
+  {
+    "name": "Deere",
+    "url": "http://www.johndeere.com"
+  },
+  {
+    "name": "DuPont",
+    "url": "http://www.dupont.com"
+  },
+  {
+    "name": "American Express",
+    "url": "http://www.americanexpress.com"
+  },
+  {
+    "name": "China Metallurgical Group",
+    "url": "http://www.mcc.com.cn"
+  },
+  {
+    "name": "Hindustan Petroleum",
+    "url": "http://www.hindustanpetroleum.com"
+  },
+  {
+    "name": "China Pacific Insurance",
+    "url": "http://www.cpic.com.cn"
+  },
+  {
+    "name": "Hanwha",
+    "url": "http://www.hanwhacorp.co.kr"
+  },
+  {
+    "name": "Westpac Banking",
+    "url": "http://www.westpac.com.au"
+  },
+  {
+    "name": "Achmea",
+    "url": "http://www.achmea.nl"
+  },
+  {
+    "name": "Korea Gas",
+    "url": "http://www.kogas.or.kr"
+  },
+  {
+    "name": "Allstate",
+    "url": "http://www.allstate.com"
+  },
+  {
+    "name": "Canon",
+    "url": "http://www.canon.com"
+  },
+  {
+    "name": "Standard Life",
+    "url": "http://www.standardlife.com"
+  },
+  {
+    "name": "Hutchison Whampoa",
+    "url": "http://www.hutchison-whampoa.com"
+  },
+  {
+    "name": "JFE Holdings",
+    "url": "http://www.jfe-holdings.co.jp"
+  },
+  {
+    "name": "Cigna",
+    "url": "http://www.cigna.com"
+  },
+  {
+    "name": "Zhejiang Materials Industry Group",
+    "url": "http://www.zjmi.com"
+  },
+  {
+    "name": "Bridgestone",
+    "url": "http://www.bridgestone.com"
+  },
+  {
+    "name": "Datong Coal Mine Group",
+    "url": "http://www.dtcoalmine.com"
+  },
+  {
+    "name": "CEFC China Energy",
+    "url": "http://www.cefc.co"
+  },
+  {
+    "name": "China Guodian",
+    "url": "http://www.cgdc.com.cn"
+  },
+  {
+    "name": "Xinxing Cathay International",
+    "url": "http://english.xxcig.com"
+  },
+  {
+    "name": "China Huadian",
+    "url": "http://www.chd.com.cn"
+  },
+  {
+    "name": "Ecopetrol",
+    "url": "http://www.ecopetrol.com.co"
+  },
+  {
+    "name": "Hyundai Mobis",
+    "url": "http://www.mobis.co.kr"
+  },
+  {
+    "name": "Mondelez International",
+    "url": "http://www.mondelezinternational.com"
+  },
+  {
+    "name": "TIAA-CREF",
+    "url": "http://www.tiaa-cref.org"
+  },
+  {
+    "name": "Sumitomo",
+    "url": "http://www.sumitomocorp.co.jp"
+  },
+  {
+    "name": "Enbridge",
+    "url": "http://www.enbridge.com"
+  },
+  {
+    "name": "INTL FCStone",
+    "url": "http://www.intlfcstone.com"
+  },
+  {
+    "name": "PKN ORLEN Group",
+    "url": "http://www.orlen.pl"
+  },
+  {
+    "name": "Jiangxi Copper",
+    "url": "http://www.jxcc.com"
+  },
+  {
+    "name": "Pegatron",
+    "url": "http://www.pegatroncorp.com"
+  },
+  {
+    "name": "Massachusetts Mutual Life",
+    "url": "http://www.massmutual.com"
+  },
+  {
+    "name": "Toronto-Dominion Bank",
+    "url": "http://www.td.com"
+  },
+  {
+    "name": "Shanxi LuAn Mining Group",
+    "url": "http://www.cnluan.com"
+  },
+  {
+    "name": "Telecom Italia",
+    "url": "http://www.telecomitalia.com"
+  },
+  {
+    "name": "DirecTV",
+    "url": "http://www.directv.com"
+  },
+  {
+    "name": "Mitsubishi Chemical Holdings",
+    "url": "http://www.mitsubishichem-hd.co.jp"
+  },
+  {
+    "name": "Guangzhou Automobile Industry Group",
+    "url": "http://www.gaig.com.cn"
+  },
+  {
+    "name": "Ericsson",
+    "url": "http://www.ericsson.com"
+  },
+  {
+    "name": "Henan Energy & Chemical",
+    "url": "http://www.hnecgc.com.cn"
+  },
+  {
+    "name": "Air France-KLM Group",
+    "url": "http://www.airfranceklm.com"
+  },
+  {
+    "name": "China Electronics",
+    "url": "http://www.cec.com.cn"
+  },
+  {
+    "name": "Schneider Electric",
+    "url": "http://www.schneider-electric.com"
+  },
+  {
+    "name": "Australia & New Zeal. Bnkg.",
+    "url": "http://www.anz.com"
+  },
+  {
+    "name": "Halliburton",
+    "url": "http://www.halliburton.com"
+  },
+  {
+    "name": "Gas Natural Fenosa",
+    "url": "http://www.gasnaturalfenosa.com"
+  },
+  {
+    "name": "China Shipbuilding Industry",
+    "url": "http://www.csic.com.cn"
+  },
+  {
+    "name": "Sumitomo Life Insurance",
+    "url": "http://www.sumitomolife.co.jp"
+  },
+  {
+    "name": "Shandong Energy Group",
+    "url": "http://www.snjt.com"
+  },
+  {
+    "name": "Accenture",
+    "url": "http://www.accenture.com"
+  },
+  {
+    "name": "Twenty-First Century Fox",
+    "url": "http://www.21cf.com"
+  },
+  {
+    "name": "Veolia Environnement",
+    "url": "http://www.veolia.com"
+  },
+  {
+    "name": "3M",
+    "url": "http://www.3m.com"
+  },
+  {
+    "name": "CFE",
+    "url": "http://www.cfe.gob.mx"
+  },
+  {
+    "name": "Shanxi Jincheng Anthracite Coal Mining",
+    "url": "http://www.jamg.cn"
+  },
+  {
+    "name": "Shaanxi Yanchang Petroleum",
+    "url": "http://www.sxycpc.com"
+  },
+  {
+    "name": "Koç Holding",
+    "url": "http://www.koc.com.tr"
+  },
+  {
+    "name": "Jinneng Group",
+    "url": "http://www.jinnengjt.com"
+  },
+  {
+    "name": "Sears Holdings",
+    "url": "http://www.searsholdings.com"
+  },
+  {
+    "name": "Kansai Electric Power",
+    "url": "http://www.kepco.co.jp"
+  },
+  {
+    "name": "Royal Philips",
+    "url": "http://www.philips.com"
+  },
+  {
+    "name": "General Dynamics",
+    "url": "http://www.generaldynamics.com"
+  },
+  {
+    "name": "Fresenius",
+    "url": "http://www.fresenius.com"
+  },
+  {
+    "name": "Publix Super Markets",
+    "url": "http://www.publix.com"
+  },
+  {
+    "name": "Quanta Computer",
+    "url": "http://www.quantatw.com"
+  },
+  {
+    "name": "China Nonferrous Metal Mining",
+    "url": "http://www.cnmc.com.cn"
+  },
+  {
+    "name": "China Energy Engineering",
+    "url": "http://www.ceec.net.cn"
+  },
+  {
+    "name": "China Datang",
+    "url": "http://www.china-cdt.com"
+  },
+  {
+    "name": "Formosa Petrochemical",
+    "url": "http://www.fpcc.com.tw"
+  },
+  {
+    "name": "Rabobank",
+    "url": "http://www.rabobank.com"
+  },
+  {
+    "name": "L'Oreal",
+    "url": "http://www.loreal.com"
+  },
+  {
+    "name": "Sompo Japan Nipponkoa",
+    "url": "http://www.sompo-hd.com"
+  },
+  {
+    "name": "Migros Group",
+    "url": "http://www.migros.ch"
+  },
+  {
+    "name": "Philip Morris International",
+    "url": "http://www.pmi.com"
+  },
+  {
+    "name": "Mapfre Group",
+    "url": "http://www.mapfre.com"
+  },
+  {
+    "name": "Kailuan Group",
+    "url": "http://www.kailuan.com.cn"
+  },
+  {
+    "name": "Coop Group",
+    "url": "http://www.coop.ch"
+  },
+  {
+    "name": "Shougang Group",
+    "url": "http://www.shougang.com.cn"
+  },
+  {
+    "name": "China Power Investment",
+    "url": "http://www.cpicorp.com.cn"
+  },
+  {
+    "name": "VTB Bank",
+    "url": "http://www.vtb.com"
+  },
+  {
+    "name": "Phoenix Pharmahandel",
+    "url": "http://www.phoenixgroup.eu"
+  },
+  {
+    "name": "Unipol",
+    "url": "http://www.unipol.it"
+  },
+  {
+    "name": "Delhaize Group",
+    "url": "http://www.delhaizegroup.com"
+  },
+  {
+    "name": "La Poste",
+    "url": "http://www.laposte.fr"
+  },
+  {
+    "name": "Yangquan Coal Industry Group",
+    "url": "http://www.ymjt.com.cn"
+  },
+  {
+    "name": "TJX",
+    "url": "http://www.tjx.com"
+  },
+  {
+    "name": "BT Group",
+    "url": "http://www.bt.com"
+  },
+  {
+    "name": "Mizuho Financial Group",
+    "url": "http://www.mizuho-fg.co.jp"
+  },
+  {
+    "name": "Vivendi",
+    "url": "http://www.vivendi.com"
+  },
+  {
+    "name": "Ultrapar Holdings",
+    "url": "http://www.ultra.com.br"
+  },
+  {
+    "name": "Time Warner",
+    "url": "http://www.timewarner.com"
+  },
+  {
+    "name": "Shaanxi Coal & Chemical Industry",
+    "url": "http://www.shccig.com"
+  },
+  {
+    "name": "Bank of Nova Scotia",
+    "url": "http://www.scotiabank.com"
+  },
+  {
+    "name": "Compass Group",
+    "url": "http://www.compass-group.com"
+  },
+  {
+    "name": "Chubu Electric Power",
+    "url": "http://www.chuden.co.jp"
+  },
+  {
+    "name": "China Everbright Group",
+    "url": "http://www.ebchina.com"
+  },
+  {
+    "name": "Macy's",
+    "url": "http://www.macysinc.com"
+  },
+  {
+    "name": "Danone",
+    "url": "http://www.danone.com"
+  },
+  {
+    "name": "Compal Electronics",
+    "url": "http://www.compal.com"
+  },
+  {
+    "name": "Energie Baden-Württemberg",
+    "url": "http://www.enbw.com"
+  },
+  {
+    "name": "Nike",
+    "url": "http://www.nike.com"
+  },
+  {
+    "name": "China General Technology",
+    "url": "http://www.genertec.com.cn"
+  },
+  {
+    "name": "Tech Data",
+    "url": "http://www.techdata.com"
+  },
+  {
+    "name": "TonenGeneral Sekiyu",
+    "url": "http://www.tonengeneral.co.jp"
+  },
+  {
+    "name": "Mazda Motor",
+    "url": "http://www.mazda.com"
+  },
+  {
+    "name": "Avnet",
+    "url": "http://www.avnet.com"
+  },
+  {
+    "name": "Morrisons",
+    "url": "http://www.morrisons.com"
+  },
+  {
+    "name": "China Ocean Shipping",
+    "url": "http://www.cosco.com"
+  },
+  {
+    "name": "Northwestern Mutual",
+    "url": "http://www.northwesternmutual.com"
+  },
+  {
+    "name": "McDonald's",
+    "url": "http://www.aboutmcdonalds.com"
+  },
+  {
+    "name": "Exelon",
+    "url": "http://www.exeloncorp.com"
+  },
+  {
+    "name": "Suzuki Motor",
+    "url": "http://www.globalsuzuki.com"
+  },
+  {
+    "name": "China Aerospace Science & Technology",
+    "url": "http://www.spacechina.com"
+  },
+  {
+    "name": "Travelers",
+    "url": "http://www.travelers.com"
+  },
+  {
+    "name": "S-Oil",
+    "url": "http://www.s-oil.com"
+  },
+  {
+    "name": "Anglo American",
+    "url": "http://www.angloamerican.com"
+  },
+  {
+    "name": "Samsung C&T",
+    "url": "http://www.samsungcnt.com"
+  },
+  {
+    "name": "Aisin Seiki",
+    "url": "http://www.aisin.com"
+  },
+  {
+    "name": "International Airlines Group",
+    "url": "http://www.iairgroup.com"
+  },
+  {
+    "name": "NEC",
+    "url": "http://www.nec.com"
+  },
+  {
+    "name": "Lotte Shopping",
+    "url": "http://www.lotteshopping.com"
+  },
+  {
+    "name": "Adecco Group",
+    "url": "http://www.adecco.com"
+  },
+  {
+    "name": "Rite Aid",
+    "url": "http://www.riteaid.com"
+  },
+  {
+    "name": "Qualcomm",
+    "url": "http://www.qualcomm.com"
+  },
+  {
+    "name": "Oil & Natural Gas",
+    "url": "http://www.ongcindia.com"
+  },
+  {
+    "name": "International Paper",
+    "url": "http://www.internationalpaper.com"
+  },
+  {
+    "name": "Ansteel Group",
+    "url": "http://www.ansteel.cn"
+  },
+  {
+    "name": "Fuji Heavy Industries",
+    "url": "http://www.fhi.co.jp"
+  },
+  {
+    "name": "Flextronics International",
+    "url": "http://www.flextronics.com"
+  },
+  {
+    "name": "Medipal Holdings",
+    "url": "http://www.medipal.co.jp"
+  },
+  {
+    "name": "AstraZeneca",
+    "url": "http://www.astrazeneca.com"
+  },
+  {
+    "name": "Samsung Life Insurance",
+    "url": "http://www.samsunglife.com"
+  },
+  {
+    "name": "China Poly Group",
+    "url": "http://www.poly.com.cn"
+  },
+  {
+    "name": "Michelin",
+    "url": "http://www.michelin.com"
+  },
+  {
+    "name": "Occidental Petroleum",
+    "url": "http://www.oxy.com"
+  },
+  {
+    "name": "GasTerra",
+    "url": "http://www.gasterra.nl"
+  },
+  {
+    "name": "Sumitomo Electric Industries",
+    "url": "http://global-sei.com/"
+  },
+  {
+    "name": "Duke Energy",
+    "url": "http://www.duke-energy.com"
+  },
+  {
+    "name": "Heineken Holding",
+    "url": "http://www.heinekenholding.com"
+  },
+  {
+    "name": "HNA Group",
+    "url": "http://www.hnagroup.com"
+  },
+  {
+    "name": "Daiwa House Industry",
+    "url": "http://www.daiwahouse.co.jp"
+  },
+  {
+    "name": "Old Mutual",
+    "url": "http://www.oldmutual.com"
+  },
+  {
+    "name": "AIA Group",
+    "url": "http://www.aia.com"
+  },
+  {
+    "name": "BAE Systems",
+    "url": "http://www.baesystems.com"
+  },
+  {
+    "name": "TUI",
+    "url": "http://www.tui-group.com"
+  },
+  {
+    "name": "Sharp",
+    "url": "http://www.sharp.co.jp"
+  },
+  {
+    "name": "Cathay Life Insurance",
+    "url": "http://www.cathaylife.com.tw"
+  },
+  {
+    "name": "Taiwan Semiconductor",
+    "url": "http://www.tsmc.com"
+  },
+  {
+    "name": "LG Display",
+    "url": "http://www.lgdisplay.com"
+  },
+  {
+    "name": "Greenergy Fuels Holdings",
+    "url": "http://www.greenergy.com"
+  },
+  {
+    "name": "CRH",
+    "url": "http://www.crh.com"
+  },
+  {
+    "name": "East Japan Railway",
+    "url": "http://www.jreast.co.jp"
+  },
+  {
+    "name": "Zhejiang Geely Holding Group",
+    "url": "http://www.geely.com"
+  },
+  {
+    "name": "Gilead Sciences",
+    "url": "http://www.gilead.com"
+  },
+  {
+    "name": "Standard Chartered",
+    "url": "http://www.sc.com"
+  },
+  {
+    "name": "Perusahaan Listrik Negara",
+    "url": "http://www.pln.co.id"
+  },
+  {
+    "name": "Telstra",
+    "url": "http://www.telstra.com.au"
+  },
+  {
+    "name": "Alstom",
+    "url": "http://www.alstom.com"
+  },
+  {
+    "name": "Baker Hughes",
+    "url": "http://www.bakerhughes.com"
+  },
+  {
+    "name": "Emerson Electric",
+    "url": "http://www.emerson.com"
+  },
+  {
+    "name": "Sodexo",
+    "url": "http://www.sodexo.com"
+  },
+  {
+    "name": "National Grid",
+    "url": "http://www.nationalgrid.com"
+  },
+  {
+    "name": "EMC",
+    "url": "http://www.emc.com"
+  },
+  {
+    "name": "ZF Friedrichshafen",
+    "url": "http://www.zf.com"
+  },
+  {
+    "name": "Landesbank Baden-Württemberg",
+    "url": "http://www.lbbw.de"
+  },
+  {
+    "name": "Onex",
+    "url": "http://www.onex.com"
+  },
+  {
+    "name": "Vattenfall",
+    "url": "http://www.vattenfall.com"
+  },
+  {
+    "name": "United Services Auto. Assn.",
+    "url": "http://www.usaa.com"
+  },
+  {
+    "name": "Union Pacific",
+    "url": "http://www.up.com"
+  },
+  {
+    "name": "Northrop Grumman",
+    "url": "http://www.northropgrumman.com"
+  },
+  {
+    "name": "Alcoa",
+    "url": "http://www.alcoa.com"
+  },
+  {
+    "name": "Capital One Financial",
+    "url": "http://www.capitalone.com"
+  },
+  {
+    "name": "AntarChile",
+    "url": "http://www.antarchile.cl"
+  },
+  {
+    "name": "Rolls-Royce Holdings",
+    "url": "http://www.rolls-royce.com"
+  },
+  {
+    "name": "Cosmo Oil",
+    "url": "http://www.cosmo-oil.co.jp"
+  },
+  {
+    "name": "Wuhan Iron & Steel",
+    "url": "http://www.wisco.com.cn"
+  },
+  {
+    "name": "Ikea",
+    "url": "http://www.ikea.com/"
+  },
+  {
+    "name": "Tesla",
+    "url": "https://www.tesla.com/"
+  }
+]
