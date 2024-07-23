@@ -1,8 +1,15 @@
+import { useEffect } from 'react';
+import useCompanyListStore from '../store/useCompanyListStore';
 import companyListData from '../utils/companyList.json';
 
 const CompanyList = () => {
     const sortCompanyData = companyListData.sort((a, b) => a.name.toLowerCase() > b.name.toLowerCase() ? 1 : -1);
-    const list = sortCompanyData.map((company) => (
+    const { companyListStore, setCompanyListStore } = useCompanyListStore();
+
+    useEffect(() => {
+        setCompanyListStore(sortCompanyData);
+    }, []);
+    const list = companyListStore.map((company) => (
         <tr>
             <td className='border p-2 border-slate-300'>
                 {company.name}
